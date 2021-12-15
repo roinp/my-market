@@ -1,6 +1,9 @@
 module.exports = {
-	content: ["./src/**/*.{html,js}", "./*.{html,js}"],
-	theme: {
+  content: [
+    "./index.html",
+    "./src/**/*.{vue,js,ts,jsx,tsx}",
+  ],
+  theme: {
 		extend: {
 			spacing: {
 				'12xl': '128rem',

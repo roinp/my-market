@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'helvetica-geo';
+    src: url('../fonts/helvetica-roman.woff2');
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'helvetica-geo';
+    src: url('../fonts/helvetica-medium.woff2');
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: 'helvetica-geo';
+    src: url('../fonts/helvetica-bold.woff2');
+    font-weight: 600;
+}
