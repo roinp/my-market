@@ -12,3 +12,11 @@
 		font-feature-settings:'case' on;
 	}
 }
+
+
+
+nav li {
+    margin-top: 13px;
+    display: flex;
+    gap: 10px;
+}
