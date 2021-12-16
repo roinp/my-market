@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <g id="Group_12785" data-name="Group 12785" transform="translate(-665 -895)">
+    <g id="Rectangle_5800" data-name="Rectangle 5800" transform="translate(665 895)" fill="none" stroke="rgba(137,150,174,0.15)" stroke-width="1">
+      <rect width="40" height="40" rx="20" stroke="none"/>
+      <rect x="0.5" y="0.5" width="39" height="39" rx="19.5" fill="none"/>
+    </g>
+    <path id="Love" d="M10.059,0h0A3.857,3.857,0,0,0,7,1.6,3.855,3.855,0,0,0,3.942,0h0A4.08,4.08,0,0,0,0,4.064v.067A.9.9,0,0,0,0,4.3C.194,9.756,7,12,7,12s6.8-2.244,7-7.7a1.119,1.119,0,0,0,0-.164V4.064A4.082,4.082,0,0,0,10.059,0Z" transform="translate(678 910)" fill="rgba(137,150,174,0.5)"/>
+  </g>
+</svg>
