@@ -35,7 +35,8 @@ module.exports = {
 				3: '3px'
 			},
 			fontSize: {
-				0: '0'
+				0: '0',
+				'10' : '10px'
 			}
 		},
 		fontFamily: {
