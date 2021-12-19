@@ -23,7 +23,8 @@ module.exports = {
 			},
 			height: {
 				'320': '320px',
-				'600': '600px'
+				'600': '600px',
+				'500': '500px'
 			},
 
 			maxWidth: {
