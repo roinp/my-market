@@ -36,7 +36,8 @@ module.exports = {
 			},
 			fontSize: {
 				0: '0',
-				'10' : '10px'
+				'10' : '10px',
+				'12' : '12px'
 			}
 		},
 		fontFamily: {
