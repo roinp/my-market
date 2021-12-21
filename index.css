@@ -20,3 +20,11 @@ nav li {
     display: flex;
     gap: 10px;
 }
+
+.facebook-plugin {
+    position: fixed;
+    right: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    z-index: 9999;
+}
