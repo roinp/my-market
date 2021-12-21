@@ -4,7 +4,7 @@ import Glide from '@glidejs/glide'
 
 ['.glide', '.glide-mobile','.glide-ads','.glide-services','.glide-ads-2','.glide-ads-3','.glide-ads-block','.glide-stories','.glide-stories-2'].forEach(className => {
 	new Glide(className, {
-		autoplay: true,
+		// autoplay: true,	
 		animationDuration: 5000,
 	}).mount();
 }).Glide
