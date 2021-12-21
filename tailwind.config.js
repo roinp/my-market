@@ -10,7 +10,8 @@ module.exports = {
 			},
 			colors: {
 				'main-color': '#fec900',
-				'red-sales': '#ff3b30'
+				'red-sales': '#ff3b30',
+				'border-color':'#cad7e5'
 			},
 			width: {
 				'375': ' 375px',
@@ -40,6 +41,10 @@ module.exports = {
 				'9' : '9px',
 				'10' : '10px',
 				'12' : '12px'
+			},
+			padding: {
+				'9px':'9px',
+				'12px':'12px'
 			}
 		},
 		fontFamily: {
