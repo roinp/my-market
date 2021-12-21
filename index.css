@@ -14,6 +14,9 @@
 }
 
 
+li:hover {
+    color: blue;
+}
 
 nav li {
     margin-top: 13px;
@@ -22,6 +25,7 @@ nav li {
 }
 
 .facebook-plugin {
+    width: 40px;
     position: fixed;
     right: 0;
     top: 50%;
